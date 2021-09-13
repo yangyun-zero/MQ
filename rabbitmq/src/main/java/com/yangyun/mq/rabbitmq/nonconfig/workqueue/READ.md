@@ -1,0 +1,1 @@
+Rabbit MQ work queue 工作模式队列
